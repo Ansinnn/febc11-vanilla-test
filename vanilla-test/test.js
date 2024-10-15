@@ -7,3 +7,5 @@ function a() {
     console.log(100);
   }
 }
+
+const b = 200;
